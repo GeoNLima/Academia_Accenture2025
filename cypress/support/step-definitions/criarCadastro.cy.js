@@ -18,6 +18,6 @@ And('clico em Submit realizo o cadastro', ()=>{
 })
 
 Then('valido a correta aparição dos dados na tabela', ()=>{
-   cy.validoDados('Neville', 'Longbotton', 'RH')
+   cy.validoDados()
 })
 
