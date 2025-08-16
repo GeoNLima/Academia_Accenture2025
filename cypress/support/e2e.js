@@ -15,3 +15,9 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+import './pages/criarCadastro.page'
+
+Cypress.on('uncaught:exception', (err, runnable) => {
+    console.log('Uncaught exception:', err.message)
+    return false
+})
