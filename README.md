@@ -1,8 +1,9 @@
 # Academia_Accenture2025 - Automação Web com Cypress
 
-![Cypress](https://img.shields.io/badge/Cypress-10.12.0-brightgreen)
-![Node.js](https://img.shields.io/badge/Node.js-18.17.0-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
+![Cypress](https://img.shields.io/badge/Tested%20with-Cypress-04C38E?logo=cypress)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen?logo=github)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ## 📌 Descrição do Projeto
@@ -93,9 +94,9 @@ npx cypress open
 ## 👩‍💻 Autor
 
 **Georgea Lima**  
-Automação Web / QA Engineer Junior  
+Automação Web / QA Engineer  
 
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin/) | [GitHub](https://github.com/GeoNLima)
+[LinkedIn](https:/www.linkedin.com/in/georgea-nascimento-lima) | [GitHub](https://github.com/GeoNLima)
 
 
 
