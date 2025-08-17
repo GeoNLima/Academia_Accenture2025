@@ -21,7 +21,8 @@ O projeto utiliza **BDD com Gherkin** e boas práticas de automação, incluindo
 
 ## 🗂 Estrutura do Projeto
 
-<img width="367" height="680" alt="Captura de tela 2025-08-16 215757" src="https://github.com/user-attachments/assets/1873697b-8e78-453a-a4c7-615a84af7085" />
+<img width="431" height="772" alt="image" src="https://github.com/user-attachments/assets/5e8e10e8-4a0f-4533-95c3-fd1b9fda86b8" />
+
 
 ---
 
